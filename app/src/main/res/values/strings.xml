@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rapido</string>
+    <string name="enter_destination">Enter destination</string>
+    <string name="enter_source">Enter source</string>
+    <string name="error_msg">Something went wrong, please try again</string>
+    <string name="india_s_bike_taxi">India\'s Bike Taxi</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="access_denied">Access denied to locations</string>
+    <string name="gps_settings">GPS Settings</string>
+    <string name="gps_message">GPS not enabled. Please enable to get your current location</string>
+    <string name="route_source">Source</string>
+    <string name="route_destination">Destination</string>
+    <string name="button_show_routes">Show Routes</string>
+    <string name="close_routes">Close Routes</string>
+    <string name="empty_address">Did you enter your address correct</string>
+</resources>
